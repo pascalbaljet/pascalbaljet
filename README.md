@@ -4,7 +4,7 @@ My name is Pascal. I run a company called [Protone Media](https://protone.media)
 
 Besides the Laravel ecosystem, I've also worked on Android/iOS apps, React Native, Angular, Java, and C++ applications. I run a [blog](https://protone.media/blog) about Laravel, PHP, and other development topics, and you can find me [on Twitter](https://twitter.com/pascalbaljet) as well! 🙌
 
-I maintain several Laravel packages, which you can find at [my company's organisation](https://github.com/protonemedia). Here are some of my favorites:
+I maintain several Laravel packages, which you can find at [my company's organization](https://github.com/protonemedia). Here are some of my favorites:
 
 * [Laravel FFMpeg](https://github.com/protonemedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel. The storage of the files is handled by Laravel's Filesystem.
 * [Laravel Paddle](https://github.com/protonemedia/laravel-paddle) - Paddle.com API integration for Laravel with support for webhooks/events.
