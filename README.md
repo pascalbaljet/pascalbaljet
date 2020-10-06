@@ -12,3 +12,5 @@ I maintain several Laravel packages, which you can find at [my company's organiz
 * [Laravel Cross Eloquent Search](https://github.com/protonemedia/laravel-cross-eloquent-search) - Package to search through multiple Eloquent models.
 * [Laravel Form Components](https://github.com/protonemedia/laravel-form-components) - Blade components to rapidly build forms with Tailwind CSS Custom Forms and Bootstrap 4. Supports validation, model binding, default values, translations, includes default vendor styling and fully customizable!
 * [Laravel Verify New Email](https://github.com/protonemedia/laravel-verify-new-email) - This package adds support for verifying new email addresses: when a user updates its email address, it won't replace the old one until the new one is verified.
+
+Want to support the development of these packages? Consider [sponsoring me](https://github.com/sponsors/pascalbaljet)! 🚀
