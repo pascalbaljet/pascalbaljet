@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Pascal**, and I am a long-time, huge Laravel enthusiast! I create [open-source packages](https://github.com/protonemedia) (with over 4.5M downloads), run a [blog](https://pascalbaljet.dev), stream on [YouTube](https://www.youtube.com/channel/UCIttNYcazftklfmopuKgHnA), and you can find me on [Twitter](https://twitter.com/pascalbaljet), [Bluesky](https://bsky.app/profile/pascalbaljet.bsky.social), and a bunch of [other platforms](https://pinkary.com/@pascalbaljet) 🙌
+My name is **Pascal**, and I am a long-time, huge Laravel enthusiast! I create [open-source packages](https://github.com/protonemedia) (with over 5.5M downloads), run a [blog](https://pascalbaljet.dev), stream on [YouTube](https://www.youtube.com/channel/UCIttNYcazftklfmopuKgHnA), I've recorded a [Laracasts Course](https://laracasts.com/series/crafting-vue-modals) and you can find me on [Twitter](https://twitter.com/pascalbaljet), [Bluesky](https://bsky.app/profile/pascalbaljet.bsky.social), and a bunch of [other platforms](https://pinkary.com/@pascalbaljet) 🙌
 
 Besides Laravel, I am interested in Inertia.js, Tailwind CSS, and Vue.js. Recently, I started working on [**Inertia UI**](https://inertiaui.com/inertia-table?utm_source=github&utm_campaign=pascalbaljet-readme), a collection of premium components that helps you build modern web applications, specifically designed for Laravel and Inertia.js.
 
